@@ -1,1 +1,1 @@
-# SaveSuicideManual-Zh_CN
+# SaveSuicide
